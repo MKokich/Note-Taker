@@ -16,4 +16,6 @@ Site deploys properly and efficiently from live site link and is user ready.
 
 ![image](https://user-images.githubusercontent.com/75143471/119236857-78680d80-baee-11eb-95d9-0fcada752978.png)
 
+![image](https://user-images.githubusercontent.com/75143471/119236886-ae0cf680-baee-11eb-98c5-74d06ce4d8c9.png)
+
 ## License
