@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/MKokich/Note-Taker/issues"
   },
-  "homepage": "https://github.com/MKokich/Note-Taker#readme",
+  "homepage": "https://github.com/MKokich/Note-Taker",
   "dependencies": {
     "express": "^4.17.1"
   }
