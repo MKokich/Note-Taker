@@ -14,6 +14,6 @@ Site deploys properly and efficiently from live site link and is user ready.
 
 ## Screenshot of Main Page
 
-![Code Quiz Screenshot](https://user-images.githubusercontent.com/75143471/107662497-5beb4800-6c58-11eb-99ca-b2af8f863291.png)
+![image](https://user-images.githubusercontent.com/75143471/119236857-78680d80-baee-11eb-95d9-0fcada752978.png)
 
 ## License
